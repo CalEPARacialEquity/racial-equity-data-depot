@@ -1,0 +1,9 @@
+---
+title: "CalEPA Racial Equity and Environmenal Justice Data Analysis Projects"
+output: html_document
+---
+
+### CalEPA Racial Equity Projects
+- [CalEPA Redline Data Analysis Tool](https://cawaterdatadive.shinyapps.io/Redline-CES-Analysis/) 
+- [CalEPA Workforce Tool](https://bit.ly/calepa2019)
+- [CalEPA Linguistic Isolation Tool](https://bit.ly/ling_isol_viz)

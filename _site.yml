@@ -1,0 +1,13 @@
+name: "racial-equity-resources"
+output_dir: "."
+navbar:
+  title: "CalEPA Racial Equity Resources"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Datasets"
+      href: datasets.html
+    - text: "CalEPA Projects"
+      href: CalEPAProjects.html  
+    - text: "Other Topics"
+      href: OtherTopics.html
