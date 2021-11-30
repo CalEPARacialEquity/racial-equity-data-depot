@@ -16,17 +16,16 @@ This page is a catalog of datasets related to racial equity and environmental ju
 
 ### 1930s HOLC 'Redlining' Maps
 - [University of Richmond's Mapping Inequality Project](http://dsl.richmond.edu/panorama/redlining/#text=downloads)
-- [CalEPA Redline-CalEnviroScreen Analysis](https://github.com/daltare/Redline-Mapping/tree/master/data_processed-analysis) 
-    - This site includes geospatial datasets developed using a combination of the data from the University of Richmond's *Mapping Inequality* project, as well as the CalEPA's CalEnviroScreen 3.0 dataset (more description needed here, and maybe links to individual files w/ descriptions...)
+- [CalEPA Pollution & Prejudice Analysis](https://github.com/daltare/Redline-Mapping/tree/master/data_processed-analysis) 
+    - This site includes geospatial datasets developed using a combination of the data from the University of Richmond's *Mapping Inequality* project, as well as the CalEPA's CalEnviroScreen 3.0 dataset.
 
 ### CalEnviroScreen 3.0
 - [CalEnviroScreen 3.0 Shapefile](https://oehha.ca.gov/media/downloads/calenviroscreen/document/ces3shp.zip)
 
-### Placeholder
-- Placeholder
-
-### Placeholder
-- Placeholder
+### CalEPA Racial Equity Projects
+- [CalEPA Redline Data Analysis Tool](https://cawaterdatadive.shinyapps.io/Redline-CES-Analysis/) 
+- [CalEPA Workforce Tool](https://bit.ly/calepa2019)
+- [CalEPA Linguistic Isolation Tool](https://bit.ly/ling_isol_viz)
 
 <!-- </div> -->
 <!-- <div class="col-sm-6"> -->

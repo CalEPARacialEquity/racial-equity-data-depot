@@ -1,0 +1,23 @@
+---
+title: "Our Future"
+output: html_document
+---
+
+
+**We envision increased capacity for further and more diverse data-based investigations in environmental justice**. However, transitioning collaborative processes & tools to virtual platforms and engagement can be difficult – we need to learn and practice effective & inclusive online workflows for this community to grow. 
+
+We want to model this community’s interactions using the [Openscapes](https://www.openscapes.org/) Theory of Change below. As teams tackle research questions (blue), their approaches (grey) can be accelerated through open data science practices (green), which are underpinned by existing open source tools (orange). By empowering this community to practice open science principles, we ensure a more effective community impact through an inclusive, kind, and collaborative culture.
+
+```{r openscapes-theory-fig, fig.align = 'center', out.width = "55%", fig.cap = "Openscapes Theory of Change. Artwork by Allison Horst.", echo=FALSE}
+knitr::include_graphics(here::here("images", "Openscapes_theoryOfChange.jpg"))
+```
+
+---
+
+### *Do I have to know code to participate in this community?*
+No! The open science principles we practice include a shift in collaboration, communication, and inclusion -- team mindsets needed to succeed in an increasingly virtual workspace. Many data science tools do not rely on coding, including version control, dashboard building, and websites. In fact, none of us build websites yet we are learning tools to craft this one! Both open mindsets and tools are needed to enable virtual collaboration.
+
+---
+
+### *What if I have data that is confidential & cannot be shared?*
+While transparent, shared data is part of our community values, we also understand that some groups, particularly Tribal and Indigenous communities, collect environmental and social data that belongs to them. We invite all members of this Pollution & Prejudice community to share the data that they are able & willing to share, and be candid about why some data remains confidential. 

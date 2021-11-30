@@ -1,13 +1,15 @@
 name: "racial-equity-resources"
 output_dir: "."
 navbar:
-  title: "CalEPA Racial Equity Resources"
+  title: "Pollution & Prejudice Community"
   left:
-    - text: "Home"
+    - text: "Purpose"
       href: index.html
+    - text: "Our Start"
+      href: OurStart.html
+    - text: "Our Future"
+      href: OurFuture.html
     - text: "Datasets"
       href: datasets.html
-    - text: "CalEPA Projects"
-      href: CalEPAProjects.html  
-    - text: "Other Topics"
-      href: OtherTopics.html
+    - text: "Contact"
+      href: Contact.html
