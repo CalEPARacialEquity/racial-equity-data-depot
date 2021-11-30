@@ -20,7 +20,7 @@ output: html_document
 # **CalEPA Racial Equity and Environmental Justice Data & Open Science Resources**
 
 <!--- ### *Resource Repository* {style="padding-top: 0px;"} --->
-This site is a catalog of projects and datasets related to racial equity and environmental justice work being done by the [California Enviornmental Protection Agency (CalEPA)](https://www.calepa.ca.gov/) and our partners, as well as some resources developed by other individuals and organizations which we have found to be helpful in or work. The site is a work in progress.
+This site is a catalog of projects and datasets related to racial equity and environmental justice work being done by the [California Environmental Protection Agency (CalEPA)](https://www.calepa.ca.gov/) and our partners, as well as some resources developed by other individuals and organizations which we have found to be helpful in or work. The site is a work in progress.
 
 This site is maintained by the CalEPA's racial equity data workgroup. If you'd like to suggest a resource to add, please send a message to <waterdata@waterboards.ca.gov>.
 

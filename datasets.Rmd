@@ -15,7 +15,7 @@ This page provides links to efforts around the state and beyond to better unders
 This page is a catalog of datasets related to racial equity and environmental justice.
 
 ### 1930s HOLC 'Redlining' Maps
-- [University of Richmond's Mapping Inequlity Project](http://dsl.richmond.edu/panorama/redlining/#text=downloads)
+- [University of Richmond's Mapping Inequality Project](http://dsl.richmond.edu/panorama/redlining/#text=downloads)
 - [CalEPA Redline-CalEnviroScreen Analysis](https://github.com/daltare/Redline-Mapping/tree/master/data_processed-analysis) 
     - This site includes geospatial datasets developed using a combination of the data from the University of Richmond's *Mapping Inequality* project, as well as the CalEPA's CalEnviroScreen 3.0 dataset (more description needed here, and maybe links to individual files w/ descriptions...)
 
