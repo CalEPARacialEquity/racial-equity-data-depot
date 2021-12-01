@@ -20,7 +20,7 @@ output: html_document
 # **Pollution & Prejudice Collaboration and Data Community**
 
 <!--- ### *Resource Repository* {style="padding-top: 0px;"} --->
-Welcome to the Pollution & Prejudice Collaboration & Data Community! We are a group of environmental professionals who use the best available data to explore and validate community experiences of environmental injustice. We envision this community to be an open research space investigating the data informing racial equity and environmental justice questions and solution. Our goals include:
+Welcome to the Pollution & Prejudice Collaboration & Data Community! We are a group of environmental professionals who use the best available data to explore and validate community experiences of environmental injustice. We envision this community to be an open research space investigating the data informing racial equity and environmental justice questions and solutions. Our goals include:
 
 1.	Cultivating inclusive collaboration among groups interested in the intersection of data science & environmental justice
 2.	Building online tools for the visualization & communication of environmental justice stories
