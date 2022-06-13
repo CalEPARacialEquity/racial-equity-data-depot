@@ -1,7 +1,7 @@
 name: "racial-equity-resources"
 output_dir: "."
 navbar:
-  title: "Pollution & Prejudice Community"
+  title: "CalEPA Racial Equity Data Resources"
   left:
     - text: "Purpose"
       href: index.html
