@@ -11,5 +11,3 @@ navbar:
       href: OurFuture.html
     - text: "Datasets"
       href: datasets.html
-    - text: "Contact"
-      href: Contact.html

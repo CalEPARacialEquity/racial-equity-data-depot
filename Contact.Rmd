@@ -3,6 +3,3 @@ title: "Contact"
 output: html_document
 ---
 
-To contact the Pollution and Prejudice Collaboration & Data Community coordinators, please email <waterdata@waterboards.ca.gov>.
-
-To contact the Pollution and Prejudice story map project team, please email <RacialequityCalEPA@calepa.ca.gov>.
