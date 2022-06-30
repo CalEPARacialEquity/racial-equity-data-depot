@@ -17,7 +17,7 @@ output: html_document
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
-# **Pollution & Prejudice Collaboration and Data Community**
+# **Racial Equity Open Data Community**
 
 <!--- ### *Resource Repository* {style="padding-top: 0px;"} --->
 Welcome to the Racial Equity Open Data Community! We are a group of environmental professionals who use the best available data to explore and validate community experiences of environmental injustice. We envision this community to be an open research space investigating the data informing racial equity and environmental justice questions and solutions. Our goals include:
