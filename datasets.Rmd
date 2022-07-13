@@ -1,33 +1,76 @@
 ---
-title: "Racial Equity and Environmental Justice Datasets"
+title: "Resource List"
 output: html_document
 ---
 
-![](images/holc-scan_snip_3.jpg)
+![](images/DataBanner.jpg) This page is a catalog of data resources related to racial equity and environmental justice.
 
+#  {.tabset .tabset-pills}
+
+## All
+
+## Workforce Equity
+
+    :::::: {.cols data-latex=""}
+
+    ::: {.col data-latex="{0.55\textwidth}"}
+    <div class="quote-container">
+
+    > This is a block quote.
+    >
+    > This paragraph has two lines.
+
+    </div>
+    :::
+
+    ::: {.col data-latex="{0.05\textwidth}"}
+    \ 
+    <!-- an empty Div (with a white space), serving as
+    a column separator -->
+    :::
+
+    ::: {.col data-latex="{0.4\textwidth}"}
+    The figure on the left-hand side shows the `cars` data.
+
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+    eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+    enim ad minim veniam, quis nostrud exercitation ullamco laboris
+    nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
+    in reprehenderit in voluptate velit esse cillum dolore eu fugiat
+    nulla pariatur.
+    :::
+    ::::::
+
+## Pollution Burden
+
+## Language Access
+
+```{=html}
 <!---## Trash Datathon Resources
 This page provides links to efforts around the state and beyond to better understand and respond to the problem of trash pollution through:
 
 - improved data collection methods/tools and data standards
 - assessment and characterization of trash data to improve our understanding of the magnitude, distribition, and content of trash pollution (e.g., the magnitude and distribution of trash pollution across space and time, types of trash pollution and their relative magnitudes, etc.) 
 - Use of trash data to analyze and/or predict the effects of trash pollution on environmental and public health--->
-
-This page is a catalog of datasets related to racial equity and environmental justice.
-
+```
 ### 1930s HOLC 'Redlining' Maps
-- [University of Richmond's Mapping Inequality Project](http://dsl.richmond.edu/panorama/redlining/#text=downloads)
-- [CalEPA Pollution & Prejudice Analysis](https://github.com/daltare/Redline-Mapping/tree/master/data_processed-analysis) 
-    - This site includes geospatial datasets developed using a combination of the data from the University of Richmond's *Mapping Inequality* project, as well as the CalEPA's CalEnviroScreen 3.0 dataset.
+
+-   [University of Richmond's Mapping Inequality Project](http://dsl.richmond.edu/panorama/redlining/#text=downloads)
+-   [CalEPA Pollution & Prejudice Analysis](https://github.com/daltare/Redline-Mapping/tree/master/data_processed-analysis)
+    -   This site includes geospatial datasets developed using a combination of the data from the University of Richmond's *Mapping Inequality* project, as well as the CalEPA's CalEnviroScreen 3.0 dataset.
 
 ### CalEnviroScreen 3.0
-- [CalEnviroScreen 3.0 Shapefile](https://oehha.ca.gov/media/downloads/calenviroscreen/document/ces3shp.zip)
+
+-   [CalEnviroScreen 3.0 Shapefile](https://oehha.ca.gov/media/downloads/calenviroscreen/document/ces3shp.zip)
 
 ### CalEPA Racial Equity Projects
-- [CalEPA Redline Data Analysis Tool](https://cawaterdatadive.shinyapps.io/Redline-CES-Analysis/) 
-- [CalEPA Workforce Tool](https://bit.ly/calepa2019)
-- [CalEPA Linguistic Isolation Tool](https://bit.ly/ling_isol_viz)
+
+-   [CalEPA Redline Data Analysis Tool](https://cawaterdatadive.shinyapps.io/Redline-CES-Analysis/)
+-   [CalEPA Workforce Tool](https://bit.ly/calepa2019)
+-   [CalEPA Linguistic Isolation Tool](https://bit.ly/ling_isol_viz)
 
 <!-- </div> -->
+
 <!-- <div class="col-sm-6"> -->
 
 <!-- ![](images/holc-scan_snip.jpg) -->
