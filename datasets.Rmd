@@ -2,44 +2,98 @@
 title: "Resource List"
 output: html_document
 ---
+<html>
+<style> 
+.gallerySection, .formatSection {
+  margin-bottom: 2em;
+}
 
-![](images/DataBanner.jpg) This page is a catalog of data resources related to racial equity and environmental justice.
+.gallerySection .gallerySectionTitle, .formatSection .formatSectionTitle {
+  font-size: 25px;
+  font-weight: 300;
+}
+
+.formatSection .formatSectionTitle {
+  margin-bottom: 10px;
+}
+
+.gallerySection .galleryIntro {
+  margin-bottom: 10px;
+}
+
+.gallerySection .galleryItems {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.gallerySection .galleryItems .galleryItem {
+  width: 24%;
+
+  border: 1px solid #f0f0f0;
+  margin-bottom: 20px;
+}
+
+.gallerySection .galleryItems .galleryItem:hover {
+
+}
+
+.gallerySection .galleryItems .galleryItem .galleryItemLabel {
+  display: block;
+  cursor: pointer;
+  border-top: 1px solid #f0f0f0;
+  padding: 10px 10px 5px 10px;
+}
+
+.gallerySection .galleryItems .galleryItem .galleryItemImage {
+  width: 100%;
+  height: auto;
+}
+
+.gallerySection .galleryItems .galleryItem .galleryItemDescription {
+  font-size: 12px;
+  padding: 0px 10px 10px 10px;
+}
+</style>
+</html>
+
+This page is a catalog of data resources related to racial equity and environmental justice.
+![](images/DataBanner.jpg) 
 
 #  {.tabset .tabset-pills}
 
 ## All
 
 ## Workforce Equity
-
-    :::::: {.cols data-latex=""}
-
-    ::: {.col data-latex="{0.55\textwidth}"}
-    <div class="quote-container">
-
-    > This is a block quote.
-    >
-    > This paragraph has two lines.
-
+<html>
+<div>These tools are specific to advancing equitable workforce recruitment and retention practices.</div>
+  <div class="galleryItems">
+    <div class="galleryItem">
+      <a href="https://cawaterdatadive.shinyapps.io/Workforce-Demographics/"><img class="galleryItemImage" src="images/temp_workforceshiny_5102_calepa_level1_2_combined_stack.png"/></a>
+      <a href="https://cawaterdatadive.shinyapps.io/Workforce-Demographics/" class="galleryItemLabel">Workforce Data Visualization</a>
+        <div class="galleryItemDescription">Developed by CalEPA Racial Equity Data Subteam.</div>
     </div>
-    :::
-
-    ::: {.col data-latex="{0.05\textwidth}"}
-    \ 
-    <!-- an empty Div (with a white space), serving as
-    a column separator -->
-    :::
-
-    ::: {.col data-latex="{0.4\textwidth}"}
-    The figure on the left-hand side shows the `cars` data.
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-    eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-    enim ad minim veniam, quis nostrud exercitation ullamco laboris
-    nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
-    in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-    nulla pariatur.
-    :::
-    ::::::
+  </div>
+</html>
+      
+      <div class="galleryItem">
+        <a href="https://github.com/svmiller/svm-r-markdown-templates/blob/master/article-example/svm-rmarkdown-article-example.pdf"><img class="galleryItemImage" src="galleryImages/pdf.png"/></a>
+        <a href="https://github.com/svmiller/svm-r-markdown-templates/blob/master/article-example/svm-rmarkdown-article-example.pdf" class="galleryItemLabel">PDF</a>
+        <div class="galleryItemDescription">PDF documents for printing. <a href="https://github.com/svmiller/svm-r-markdown-templates/blob/master/article-example/svm-rmarkdown-article-example.Rmd">Example Code</a></div>
+      </div>
+      <div class="galleryItem">
+        <img class="galleryItemImage" src="galleryImages/word.png"/>
+        <a href="https://github.com/svmiller/svm-r-markdown-templates/tree/master/word-example" class="galleryItemLabel">Microsoft Word</a>
+        <div class="galleryItemDescription">Microsoft Word documents for Office workflows.</div>
+      </div>
+      <div class="galleryItem">
+        <a href="https://rstudio.github.io/tufte/"><img class="galleryItemImage" src="galleryImages/tufte.png"/></a>
+        <a href="https://rstudio.github.io/tufte/" class="galleryItemLabel">Handouts</a>
+        <div class="galleryItemDescription">Tufte styled documents for handouts. <a href="https://github.com/rstudio/tufte/tree/master/inst/rmarkdown/templates/tufte_html/skeleton/skeleton.Rmd">Example Code</a></div>
+      </div>
+    </div>
+  </div>
 
 ## Pollution Burden
 

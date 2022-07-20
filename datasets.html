@@ -274,8 +274,63 @@ $(document).ready(function () {
 </div>
 
 
-<p><img src="images/DataBanner.jpg" /> This page is a catalog of data
-resources related to racial equity and environmental justice.</p>
+<html>
+<style> 
+.gallerySection, .formatSection {
+  margin-bottom: 2em;
+}
+
+.gallerySection .gallerySectionTitle, .formatSection .formatSectionTitle {
+  font-size: 25px;
+  font-weight: 300;
+}
+
+.formatSection .formatSectionTitle {
+  margin-bottom: 10px;
+}
+
+.gallerySection .galleryIntro {
+  margin-bottom: 10px;
+}
+
+.gallerySection .galleryItems {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.gallerySection .galleryItems .galleryItem {
+  width: 24%;
+
+  border: 1px solid #f0f0f0;
+  margin-bottom: 20px;
+}
+
+.gallerySection .galleryItems .galleryItem:hover {
+
+}
+
+.gallerySection .galleryItems .galleryItem .galleryItemLabel {
+  display: block;
+  cursor: pointer;
+  border-top: 1px solid #f0f0f0;
+  padding: 10px 10px 5px 10px;
+}
+
+.gallerySection .galleryItems .galleryItem .galleryItemImage {
+  width: 100%;
+  height: auto;
+}
+
+.gallerySection .galleryItems .galleryItem .galleryItemDescription {
+  font-size: 12px;
+  padding: 0px 10px 10px 10px;
+}
+</style>
+</html>
+<p>This page is a catalog of data resources related to racial equity and
+environmental justice. <img src="images/DataBanner.jpg" /></p>
 <div id="section" class="section level1 tabset tabset-pills">
 <h1 class="tabset tabset-pills"></h1>
 <div id="all" class="section level2">
@@ -283,35 +338,36 @@ resources related to racial equity and environmental justice.</p>
 </div>
 <div id="workforce-equity" class="section level2">
 <h2>Workforce Equity</h2>
-<pre><code>:::::: {.cols data-latex=&quot;&quot;}
-
-::: {.col data-latex=&quot;{0.55\textwidth}&quot;}
-&lt;div class=&quot;quote-container&quot;&gt;
-
-&gt; This is a block quote.
-&gt;
-&gt; This paragraph has two lines.
-
-&lt;/div&gt;
-:::
-
-::: {.col data-latex=&quot;{0.05\textwidth}&quot;}
-\ 
-&lt;!-- an empty Div (with a white space), serving as
-a column separator --&gt;
-:::
-
-::: {.col data-latex=&quot;{0.4\textwidth}&quot;}
-The figure on the left-hand side shows the `cars` data.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-enim ad minim veniam, quis nostrud exercitation ullamco laboris
-nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
-in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur.
-:::
-::::::</code></pre>
+<html>
+<div>
+These tools are specific to advancing equitable workforce recruitment
+and retention practices.
+</div>
+<div class="galleryItems">
+<pre><code>&lt;div class=&quot;galleryItem&quot;&gt;
+  &lt;a href=&quot;https://cawaterdatadive.shinyapps.io/Workforce-Demographics/&quot;&gt;&lt;img class=&quot;galleryItemImage&quot; src=&quot;images/temp_workforceshiny_5102_calepa_level1_2_combined_stack.png&quot;/&gt;&lt;/a&gt;
+  &lt;a href=&quot;https://cawaterdatadive.shinyapps.io/Workforce-Demographics/&quot; class=&quot;galleryItemLabel&quot;&gt;Workforce Data Visualization&lt;/a&gt;
+    &lt;div class=&quot;galleryItemDescription&quot;&gt;Developed by CalEPA Racial Equity Data Subteam.&lt;/div&gt;
+&lt;/div&gt;</code></pre>
+</div>
+</html>
+<pre><code>  &lt;div class=&quot;galleryItem&quot;&gt;
+    &lt;a href=&quot;https://github.com/svmiller/svm-r-markdown-templates/blob/master/article-example/svm-rmarkdown-article-example.pdf&quot;&gt;&lt;img class=&quot;galleryItemImage&quot; src=&quot;galleryImages/pdf.png&quot;/&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://github.com/svmiller/svm-r-markdown-templates/blob/master/article-example/svm-rmarkdown-article-example.pdf&quot; class=&quot;galleryItemLabel&quot;&gt;PDF&lt;/a&gt;
+    &lt;div class=&quot;galleryItemDescription&quot;&gt;PDF documents for printing. &lt;a href=&quot;https://github.com/svmiller/svm-r-markdown-templates/blob/master/article-example/svm-rmarkdown-article-example.Rmd&quot;&gt;Example Code&lt;/a&gt;&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;galleryItem&quot;&gt;
+    &lt;img class=&quot;galleryItemImage&quot; src=&quot;galleryImages/word.png&quot;/&gt;
+    &lt;a href=&quot;https://github.com/svmiller/svm-r-markdown-templates/tree/master/word-example&quot; class=&quot;galleryItemLabel&quot;&gt;Microsoft Word&lt;/a&gt;
+    &lt;div class=&quot;galleryItemDescription&quot;&gt;Microsoft Word documents for Office workflows.&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;galleryItem&quot;&gt;
+    &lt;a href=&quot;https://rstudio.github.io/tufte/&quot;&gt;&lt;img class=&quot;galleryItemImage&quot; src=&quot;galleryImages/tufte.png&quot;/&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://rstudio.github.io/tufte/&quot; class=&quot;galleryItemLabel&quot;&gt;Handouts&lt;/a&gt;
+    &lt;div class=&quot;galleryItemDescription&quot;&gt;Tufte styled documents for handouts. &lt;a href=&quot;https://github.com/rstudio/tufte/tree/master/inst/rmarkdown/templates/tufte_html/skeleton/skeleton.Rmd&quot;&gt;Example Code&lt;/a&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</code></pre>
+</div>
 </div>
 <div id="pollution-burden" class="section level2">
 <h2>Pollution Burden</h2>
