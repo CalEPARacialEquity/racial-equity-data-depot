@@ -2,8 +2,12 @@
 title: "Resource List"
 output: html_document
 ---
-<html>
-<style> 
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{css, echo = FALSE}
 .gallerySection, .formatSection {
   margin-bottom: 2em;
 }
@@ -55,28 +59,34 @@ output: html_document
   font-size: 12px;
   padding: 0px 10px 10px 10px;
 }
-</style>
-</html>
+```
 
 This page is a catalog of data resources related to racial equity and environmental justice.
-![](images/DataBanner.jpg) 
 
-#  {.tabset .tabset-pills}
+# {.tabset .tabset-pills}
 
 ## All
 
 ## Workforce Equity
-<html>
+
+<!--html_preserve-->
 <div>These tools are specific to advancing equitable workforce recruitment and retention practices.</div>
-  <div class="galleryItems">
-    <div class="galleryItem">
-      <a href="https://cawaterdatadive.shinyapps.io/Workforce-Demographics/"><img class="galleryItemImage" src="images/temp_workforceshiny_5102_calepa_level1_2_combined_stack.png"/></a>
-      <a href="https://cawaterdatadive.shinyapps.io/Workforce-Demographics/" class="galleryItemLabel">Workforce Data Visualization</a>
+  <div class="gallerySection">
+    <div class="galleryItems">
+      <div class="galleryItem">
+        <a href="https://cawaterdatadive.shinyapps.io/Workforce-Demographics/"><img class="galleryItemImage" src="images/temp_workforceshiny_5102_calepa_level1_2_combined_stack.png"/></a>
+        <a href="https://cawaterdatadive.shinyapps.io/Workforce-Demographics/" class="galleryItemLabel">Workforce Data Visualization</a>
         <div class="galleryItemDescription">Developed by CalEPA Racial Equity Data Subteam.</div>
-    </div>
+      </div>
+      <div class="galleryItem">
+        <a href="https://cawaterdatadive.shinyapps.io/Workforce-Demographics/"><img class="galleryItemImage" src="images/temp_workforceshiny_5102_calepa_level1_2_combined_stack.png"/></a>
+        <a href="https://cawaterdatadive.shinyapps.io/Workforce-Demographics/" class="galleryItemLabel">Workforce Data Visualization</a>
+        <div class="galleryItemDescription">Developed by CalEPA Racial Equity Data Subteam.</div>
+      </div>
+   </div>
   </div>
-</html>
-      
+<!--/html_preserve-->
+
       <div class="galleryItem">
         <a href="https://github.com/svmiller/svm-r-markdown-templates/blob/master/article-example/svm-rmarkdown-article-example.pdf"><img class="galleryItemImage" src="galleryImages/pdf.png"/></a>
         <a href="https://github.com/svmiller/svm-r-markdown-templates/blob/master/article-example/svm-rmarkdown-article-example.pdf" class="galleryItemLabel">PDF</a>
@@ -93,7 +103,8 @@ This page is a catalog of data resources related to racial equity and environmen
         <div class="galleryItemDescription">Tufte styled documents for handouts. <a href="https://github.com/rstudio/tufte/tree/master/inst/rmarkdown/templates/tufte_html/skeleton/skeleton.Rmd">Example Code</a></div>
       </div>
     </div>
-  </div>
+
+</div>
 
 ## Pollution Burden
 
