@@ -28,7 +28,7 @@ Welcome to the Racial Equity Open Data Community! We are a group of environmenta
 4.	Serving as a data hub for environmental justice datasets
 
 
-This site is currently maintained by the CalEPA Racial Equity Team and is a work in progress. Additional content will be added as our community develops. If you'd like to suggest a resource to add or have general questions, please email us at <Leah.Jones@Waterboards.ca.gov> or <Devan.Burke@Waterboards.ca.gov>. 
+This site is currently maintained by the CalEPA Racial Equity Team and is regularly updated. Additional content will be added as our community develops. If you'd like to suggest a resource to add or have general questions, please email us at <Leah.Jones@Waterboards.ca.gov> or <Devan.Burke@Waterboards.ca.gov>. 
 
 
 </div>

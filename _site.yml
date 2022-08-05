@@ -3,11 +3,5 @@ output_dir: "."
 navbar:
   title: "CalEPA Racial Equity Data Resources"
   left:
-    - text: "Purpose"
-      href: index.html
-    - text: "Our Start"
-      href: OurStart.html
-    - text: "Our Future"
-      href: OurFuture.html
     - text: "Datasets"
       href: datasets.html

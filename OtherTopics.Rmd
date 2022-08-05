@@ -6,3 +6,18 @@ output: html_document
 ### Placeholder for Other Topics
 - Placeholder
 - Placeholder
+
+
+```{=html}
+<!---## Trash Datathon Resources
+This page provides links to efforts around the state and beyond to better understand and respond to the problem of trash pollution through:
+
+- improved data collection methods/tools and data standards
+- assessment and characterization of trash data to improve our understanding of the magnitude, distribition, and content of trash pollution (e.g., the magnitude and distribution of trash pollution across space and time, types of trash pollution and their relative magnitudes, etc.) 
+- Use of trash data to analyze and/or predict the effects of trash pollution on environmental and public health--->
+```
+### 1930s HOLC 'Redlining' Maps
+
+-   [University of Richmond's Mapping Inequality Project](http://dsl.richmond.edu/panorama/redlining/#text=downloads)
+-   [CalEPA Pollution & Prejudice Analysis](https://github.com/daltare/Redline-Mapping/tree/master/data_processed-analysis)
+    -   This site includes geospatial datasets developed using a combination of the data from the University of Richmond's *Mapping Inequality* project, as well as the CalEPA's CalEnviroScreen 3.0 dataset.
