@@ -1,5 +1,5 @@
 ---
-title: "CalEPA Racial Equity Data Resources"
+title: "CalEPA Racial Equity Data Depot"
 output: html_document
 ---
 
